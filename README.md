@@ -2,7 +2,7 @@
 > This is a rpg game made in excel using vba
 
 ## **DEMO**
-> - To play download the the latest [release](https://github.com/asura-cr/Wrong-tool/releases/latest) and open the .xlsm , go to developer tab click on macro security
+> - To play download the the latest [release](https://github.com/asura-cr/Wrong-tool/releases/latest) and extract the zip and open the .xlsm , go to developer tab click on macro security
 > 
 >   <img width="628" height="62" alt="image" src="https://github.com/user-attachments/assets/89baa0e4-0c66-4e75-a79b-139d13f48ec6" />
 >
